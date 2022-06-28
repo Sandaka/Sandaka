@@ -12,6 +12,7 @@
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=sandaka&style=flat-square&color=blue" alt=""/> -->
 </div>
 </div>
 
