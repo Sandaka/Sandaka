@@ -37,7 +37,7 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 - ⭐Bachelor of Information Technology | University of Colombo
 - ⭐CMJD/ABSD | Institute of Software Engineering
 
-### 🏢: Companies :
+### 🏢 Companies :
 - 👨‍💼Pearson Lanka (Pvt) Ltd | Since 2019
 - 👨‍💼Rezgateway (Pvt) Ltd | 2017-2019
 - 👨‍💼BoswinIT (Pvt) Ltd | 2016-2017
