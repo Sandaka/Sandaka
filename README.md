@@ -3,14 +3,17 @@
  <h3>Hi there 👋 I'm Sandaka Wijesinghe (He/His)</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/sandaka-geethaj-wijesinghe-70129610b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/c/SandakaWijesinghe">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="your-instagram-URL">
+    <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <!-- <img src="https://komarev.com/ghpvc/?username=sandaka&style=flat-square&color=blue" alt=""/> -->
 </div>
@@ -25,7 +28,7 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Exploring Technical Content Writing.
 
-- 👯 In my free time, I'm travelling with my friends and creating contents on YouTube. Check my Vlogs @ [![YouTube Badge](https://img.shields.io/badge/-youtube-red?style=flat&logo=Youtube&logoColor=white)](your-linkedin-url)
+- 👯 In my free time, I'm travelling with my friends and creating contents on YouTube. Check my Vlogs [![YouTube Badge](https://img.shields.io/badge/-youtube-red?style=flat&logo=Youtube&logoColor=white)](your-linkedin-url)
 
 - :mailbox:How to reach me via [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
@@ -35,7 +38,7 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -50,6 +53,9 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original-wordmark.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
