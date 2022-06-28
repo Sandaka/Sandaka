@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka 🇱🇰
 
 - :telescope: Over 5 years of experience working in the field of software engineering, where I have contributed to the success of various projects. Different domains such as education, hotel reservation and online shopping projects in reputed companies.
 
@@ -31,6 +31,16 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 - 👯 In my free time, I'm travelling with my friends and creating contents on YouTube. Check my Vlogs [![YouTube Badge](https://img.shields.io/badge/-youtube-red?style=flat&logo=Youtube&logoColor=white)](your-linkedin-url)
 
 - :mailbox:How to reach me via [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+### :man_student: Education :
+- ⭐MSc in Software Engineering | Kingston University London
+- ⭐Bachelor of Information Technology | University of Colombo
+- ⭐CMJD/ABSD | Institute of Software Engineering
+
+### 🏢: Companies :
+- 👨‍💼Pearson Lanka (Pvt) Ltd | Since 2019
+- 👨‍💼Rezgateway (Pvt) Ltd | 2017-2019
+- 👨‍💼BoswinIT (Pvt) Ltd | 2016-2017
 
 ---
 
